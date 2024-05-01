@@ -42,7 +42,7 @@ README.md: This file (you're currently reading it!).
 ### Instructions
 Clone this repository:
 ```
-git clone https://github.com/your-username/marketing-campaign-prediction.git
+https://github.com/Thireshsidda/ML_Project47-MarketingCampaignResultPrediction.git
 ```
 Open a terminal or command prompt and navigate to the project directory.
 
